@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 450" fill="none">
+  <rect width="800" height="450" fill="#0f172a"/>
+  <rect x="40" y="40" width="720" height="370" rx="12" fill="#1e293b" stroke="#334155" stroke-width="2"/>
+  <text x="400" y="85" text-anchor="middle" fill="#94a3b8" font-family="system-ui,sans-serif" font-size="16" font-weight="600">Machine Learning</text>
+  <circle cx="200" cy="220" r="40" fill="#3b82f6" opacity="0.8"/>
+  <circle cx="400" cy="160" r="35" fill="#06b6d4" opacity="0.8"/>
+  <circle cx="400" cy="280" r="35" fill="#06b6d4" opacity="0.8"/>
+  <circle cx="600" cy="220" r="40" fill="#8b5cf6" opacity="0.8"/>
+  <line x1="240" y1="210" x2="365" y2="170" stroke="#64748b" stroke-width="2"/>
+  <line x1="240" y1="230" x2="365" y2="270" stroke="#64748b" stroke-width="2"/>
+  <line x1="435" y1="170" x2="560" y2="210" stroke="#64748b" stroke-width="2"/>
+  <line x1="435" y1="270" x2="560" y2="230" stroke="#64748b" stroke-width="2"/>
+  <rect x="120" y="340" width="560" height="50" rx="8" fill="#0f172a" stroke="#334155" stroke-width="1"/>
+  <text x="400" y="372" text-anchor="middle" fill="#64748b" font-family="monospace" font-size="14">accuracy: 0.94 | f1: 0.91 | recall: 0.89</text>
+</svg>
